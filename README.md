@@ -1,6 +1,6 @@
 # 프로젝트 소개
 ## 프로젝트명 : OTT Planet 🪐
-### OTT Planet에 방문하셔서 재밌는 콘텐츠 물어가세요❗️
+### OTT Planet에 방문하셔서 재밌는 콘텐츠 물어가세요❗️ 
 
 <img width="915" alt="image" src="https://user-images.githubusercontent.com/117708164/202367291-4c15eed9-3834-4e04-a0ba-d0105438598a.png">
 http://ottplanet.shop/main
